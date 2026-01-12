@@ -2,7 +2,7 @@
 name: Docs Template
 about: 문서 작성
 title: "[DOCS] "
-labels: docs
+labels: 📄 docs
 assignees: ''
 
 ---
